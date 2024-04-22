@@ -1,4 +1,4 @@
-function t(a)
+function t(let a)
 {
     let sum=0;
     sum=a+a;
